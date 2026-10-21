@@ -4,14 +4,13 @@ infiniflow/infinity:v0.2.1
 
  
 
-elasticsearch:8.11.3
+elasticsearch:9.7.0
 
-mysql:8.0.39
+mysql:26.10.0
 
-postgres:13
+postgres:19rc1
 
-redis:6
+redis:8
 
-valkey/valkey:8
 
 minio/minio
