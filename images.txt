@@ -4,4 +4,4 @@ elasticsearch:9.5.5
 mysql:26.10.0
 postgres:19rc1
 redis:8
-minio/minio
+silo:RELEASE.2026-09-16T00-00-00Z
