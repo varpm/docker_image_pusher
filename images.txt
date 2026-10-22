@@ -1,16 +1,7 @@
 infiniflow/ragflow:v1.0.0-rc2
-
 infiniflow/infinity:v0.2.1
-
- 
-
 elasticsearch:9.7.0
-
 mysql:26.10.0
-
 postgres:19rc1
-
 redis:8
-
-
 minio/minio
